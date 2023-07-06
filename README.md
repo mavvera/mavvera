@@ -1,6 +1,6 @@
 How many time left we have,  lol
 <h1 align="center">Hi 👋, I'm Mario Alberto Vera</h1>
-<h3 align="center">A passionate begginer in Python developement from Mexico</h3>
+<h3 align="center">A passionate begginer in Data Analist from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavvera&label=Profile%20views&color=0e75b6&style=flat" alt="mavvera" /> </p>
 
