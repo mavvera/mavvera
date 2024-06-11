@@ -6,7 +6,7 @@ How many time left we have,  lol
 
 - 🔭 I’m currently working on **Debugging**
 
-- 🌱 I’m currently learning **SQL and AWS**
+- 🌱 I’m currently learning **DeVops**
 
 <h3 align="left">Connect with me:</h3> mariovera@hotmail.es
 <p align="left">
